@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+
+}
 
 .sfondo{
     box-sizing: border-box;
@@ -16,10 +20,18 @@
     z-index:2;
     margin: 0;
 }
+.ulll{
+    margin-top: 10px;
+}
 
+.ulll1{
+    margin-top: 10px;
+    padding-left: 15px;
+}
 .titolo{
     font-size: 20px;
     margin: 0;
+    margin-top: 10px;
 }
 
 .scritto{
@@ -28,17 +40,17 @@
 }
 
 .scritto1{
-    font-size: 8px;
+    font-size: 6px;
     margin: 0;
 }
 
 .data{
-    font-size: 8px;
+    font-size: 6px;
     margin: 0;
 }
 
 .sect{
-    font-size: 10px;
+    font-size: 8px;
 }
 img{
     margin-top: 10px;
@@ -49,4 +61,32 @@ img{
 
 p{
     margin: 0;
+}
+
+table{
+    font-size: 9px;
+    margin-top: 10px;
+}
+
+thead {
+    background-color: rgb(27, 124, 124);
+}
+
+.col , tfoot{ 
+    background-color: aqua;
+}
+
+.testo{
+    margin-top: 10px;
+    font-size: 9px;
+}
+
+.sotto{
+    margin-top: 20px;
+    font-size: 9px;
+}
+
+.grand{
+   height: 10vh;
+   width: 20vw;
 }
