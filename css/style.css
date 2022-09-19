@@ -27,15 +27,26 @@
     margin: 0;
 }
 
+.scritto1{
+    font-size: 8px;
+    margin: 0;
+}
+
 .data{
     font-size: 8px;
     margin: 0;
 }
 
-
+.sect{
+    font-size: 10px;
+}
 img{
     margin-top: 10px;
     display: inline;
     width: 48vw;
-    height: 25vh;
+    height: 30vh;
+}
+
+p{
+    margin: 0;
 }
