@@ -90,3 +90,11 @@ thead {
    height: 10vh;
    width: 20vw;
 }
+
+.yellow{
+    background-color: yellow;
+}
+
+.blue{
+    color: blue;
+}
